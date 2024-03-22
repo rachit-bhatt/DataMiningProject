@@ -1,2 +1,2 @@
-# DataMiningProject
-Project for Data Mining
+# Data Mining Project
+Project for Data Mining.
