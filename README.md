@@ -1,6 +1,7 @@
 <div align = 'center'>
-<h1>NBA Data Mining Project</h1>
-<img src = 'https://github.com/rachit-bhatt/DataMiningProject/assets/73155703/af9290f5-b87b-44d1-a984-e781db9761a1' />
+  <h1>Data Mining Project on NBA</h1>
+  <font color = '#F88158'><h2>⛹🏻‍♂️NATIONAL BASKETB🏀LL ASSOCIATION⛹️‍♂️</h2></font>
+  <img src = 'https://github.com/rachit-bhatt/DataMiningProject/assets/73155703/af9290f5-b87b-44d1-a984-e781db9761a1' />
 </div>
 
 ## Overview
